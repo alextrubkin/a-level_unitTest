@@ -1,0 +1,18 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\bin\Debug\CalcLibraryTest.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\bin\Debug\CalcLibraryTest.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\bin\Debug\CalcLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\bin\Debug\CalcLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\obj\Debug\CalcLibraryTest.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\obj\Debug\CalcLibraryTest.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibraryTest\obj\Debug\CalcLibraryTest.pdb
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\bin\Debug\CalcLibraryTest.dll
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\bin\Debug\CalcLibraryTest.pdb
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\bin\Debug\CalcLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\bin\Debug\CalcLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\obj\Debug\CalcLibraryTest.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\obj\Debug\CalcLibraryTest.csproj.CopyComplete
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\obj\Debug\CalcLibraryTest.dll
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibraryTest\obj\Debug\CalcLibraryTest.pdb

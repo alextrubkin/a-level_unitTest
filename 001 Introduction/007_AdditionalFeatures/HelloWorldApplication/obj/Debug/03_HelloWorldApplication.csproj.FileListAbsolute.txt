@@ -1,0 +1,17 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication\obj\Debug\03_HelloWorldApplication.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\obj\Debug\03_HelloWorldApplication.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb

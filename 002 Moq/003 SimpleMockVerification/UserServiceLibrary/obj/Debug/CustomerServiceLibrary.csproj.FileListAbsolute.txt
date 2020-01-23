@@ -1,0 +1,10 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\obj\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\obj\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\003 SimpleMockVerification\UserServiceLibrary\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\003 SimpleMockVerification\UserServiceLibrary\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\003 SimpleMockVerification\UserServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\003 SimpleMockVerification\UserServiceLibrary\obj\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\003 SimpleMockVerification\UserServiceLibrary\obj\Debug\UserServiceLibrary.pdb

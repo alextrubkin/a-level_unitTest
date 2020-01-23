@@ -1,0 +1,35 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\bin\Debug\LogginLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\bin\Debug\LogginLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\bin\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\bin\Debug\LoggingLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\LogginLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\LogginLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\LoggingLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\LogginLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\LogginLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\LoggingLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LogginLibrary.Tests\obj\Debug\LogginLibrary.Tests.pdb

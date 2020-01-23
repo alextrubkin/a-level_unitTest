@@ -1,0 +1,27 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\bin\Debug\UserRegistrationTests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\bin\Debug\UserRegistrationTests.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\bin\Debug\UserRegistration.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\bin\Debug\UserRegistration.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\obj\Debug\UserRegistrationTests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\obj\Debug\UserRegistrationTests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistrationTests\obj\Debug\UserRegistrationTests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\UserRegistrationTests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\UserRegistrationTests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\UserRegistration.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\UserRegistration.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\obj\Debug\UserRegistrationTests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\obj\Debug\UserRegistrationTests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistrationTests\obj\Debug\UserRegistrationTests.pdb
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\UserRegistrationTests.dll
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\UserRegistrationTests.pdb
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\UserRegistration.dll
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\bin\Debug\UserRegistration.pdb
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\obj\Debug\UserRegistrationTests.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\obj\Debug\UserRegistrationTests.csproj.CopyComplete
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\obj\Debug\UserRegistrationTests.dll
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistrationTests\obj\Debug\UserRegistrationTests.pdb

@@ -1,0 +1,40 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary.Tests\bin\Debug\testData.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\testData.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\testData.xml
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.pdb
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\testData.xml
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.dll
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.pdb
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.csproj.CopyComplete
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.dll
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.pdb

@@ -1,0 +1,24 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\Exceptions\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\Exceptions\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\Exceptions\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\Exceptions\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\MockingProperties\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\MockingProperties\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\MockingProperties\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\MockingProperties\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\MockingProperties\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\EventMocking\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\EventMocking\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\EventMocking\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\EventMocking\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\EventMocking\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\012 EventMocking\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\012 EventMocking\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\012 EventMocking\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\012 EventMocking\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\012 EventMocking\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb

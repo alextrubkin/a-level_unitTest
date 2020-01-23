@@ -1,0 +1,5 @@
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute\bin\Debug\DeploymentItemAttribute.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute\bin\Debug\DeploymentItemAttribute.pdb
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute\obj\Debug\DeploymentItemAttribute.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute\obj\Debug\DeploymentItemAttribute.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute\obj\Debug\DeploymentItemAttribute.pdb

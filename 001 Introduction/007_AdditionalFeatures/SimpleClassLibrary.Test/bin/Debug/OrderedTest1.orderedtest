@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="OrderedTest1" storage="d:\a-level\unit_testing\001 introduction\007_additionalfeatures\simpleclasslibrary.test\orderedtest1.orderedtest" id="86460cbb-f07c-42ea-8eca-115d81238fa0" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="349cabea-aa84-ec67-223a-d3929f410153" name="Div_10_0_ExceptionExpected" storage="bin\debug\simpleclasslibrary.test.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="cdeae14e-8b00-0607-258b-d2e29a0a6880" name="Add_2_3_Returns_5" storage="bin\debug\simpleclasslibrary.test.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="050851fb-2e91-e0f0-9aa2-d1cf16835ca4" name="Div_10_2_Returns_5" storage="bin\debug\simpleclasslibrary.test.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

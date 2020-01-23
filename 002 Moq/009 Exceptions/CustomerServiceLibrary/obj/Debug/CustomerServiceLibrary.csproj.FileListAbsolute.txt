@@ -1,0 +1,8 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\Exceptions\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\Exceptions\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\Exceptions\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\Exceptions\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\009 Exceptions\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\009 Exceptions\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\009 Exceptions\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\009 Exceptions\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb

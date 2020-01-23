@@ -1,0 +1,15 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\obj\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServiceLibrary\obj\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnValuesSample\UserServiceLibrary\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnValuesSample\UserServiceLibrary\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnValuesSample\UserServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnValuesSample\UserServiceLibrary\obj\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnValuesSample\UserServiceLibrary\obj\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\004 ReturnValuesSample\UserServiceLibrary\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\004 ReturnValuesSample\UserServiceLibrary\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\004 ReturnValuesSample\UserServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\004 ReturnValuesSample\UserServiceLibrary\obj\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\004 ReturnValuesSample\UserServiceLibrary\obj\Debug\UserServiceLibrary.pdb

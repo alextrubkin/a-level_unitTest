@@ -1,0 +1,8 @@
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.pdb

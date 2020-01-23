@@ -1,0 +1,30 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\bin\Debug\CalculatorOrderedTest.orderedtest
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.Test.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.Test.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\obj\Debug\02_SimpleClassLibrary.Test.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\obj\Debug\SimpleClassLibrary.Test.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary.Test\obj\Debug\SimpleClassLibrary.Test.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\CalculatorOrderedTest.orderedtest
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.Test.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.Test.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\obj\Debug\02_SimpleClassLibrary.Test.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\obj\Debug\SimpleClassLibrary.Test.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\obj\Debug\SimpleClassLibrary.Test.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.Test.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.Test.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\SimpleClassLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\obj\Debug\02_SimpleClassLibrary.Test.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\obj\Debug\02_SimpleClassLibrary.Test.csproj.CopyComplete
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\obj\Debug\SimpleClassLibrary.Test.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\obj\Debug\SimpleClassLibrary.Test.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\SimpleClassLibrary.Test\bin\Debug\OrderedTest1.orderedtest

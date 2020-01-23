@@ -1,0 +1,22 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication.Tests\bin\Debug\HelloWorldApp.GenericTest
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication.Tests\bin\Debug\HelloWorldApplication.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication.Tests\bin\Debug\HelloWorldApplication.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication.Tests\obj\Debug\HelloWorldApplication.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\HelloWorldApplication.Tests\obj\Debug\HelloWorldApplication.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\HelloWorldApp.GenericTest
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\HelloWorldApplication.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\HelloWorldApplication.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\obj\Debug\04_HelloWorldApplication.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\obj\Debug\HelloWorldApplication.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\obj\Debug\HelloWorldApplication.Tests.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\HelloWorldApp.GenericTest
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\HelloWorldApplication.Tests.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\HelloWorldApplication.Tests.pdb
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\obj\Debug\04_HelloWorldApplication.Tests.csproj.CopyComplete
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\obj\Debug\HelloWorldApplication.Tests.dll
+D:\a-level\Unit_Testing\001 Introduction\007_AdditionalFeatures\HelloWorldApplication.Tests\obj\Debug\HelloWorldApplication.Tests.pdb

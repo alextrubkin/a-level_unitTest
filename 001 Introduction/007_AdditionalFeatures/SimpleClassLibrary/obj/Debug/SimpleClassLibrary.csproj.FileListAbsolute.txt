@@ -1,0 +1,5 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleClassLibrary\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.pdb

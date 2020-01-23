@@ -1,0 +1,15 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LoggingLibrary\obj\Debug\LoggingLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\LoggingLibrary\LoggingLibrary\obj\Debug\LoggingLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LoggingLibrary\obj\Debug\LoggingLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\002 LoggingLibrary moq\LoggingLibrary\obj\Debug\LoggingLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LoggingLibrary\obj\Debug\LoggingLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\002 LoggingLibrary moq\LoggingLibrary\obj\Debug\LoggingLibrary.pdb

@@ -1,0 +1,22 @@
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttributeSample.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttributeSample.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttribute.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttribute.pdb
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttributeSample.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttributeSample.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttributeSample.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Files\ExamCreatedResult.txt
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Files\ExamCreatedTemplate.txt
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Files\ExamCreatedResult.txt
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Files\ExamCreatedTemplate.txt
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttributeSample.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttributeSample.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttribute.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttribute.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttributeSample.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttributeSample.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\008_DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttributeSample.Tests.pdb

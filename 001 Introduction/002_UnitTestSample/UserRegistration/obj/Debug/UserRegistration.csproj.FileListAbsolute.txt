@@ -1,0 +1,15 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistration\bin\Debug\UserRegistration.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistration\bin\Debug\UserRegistration.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistration\obj\Debug\UserRegistration.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistration\bin\Debug\UserRegistration.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistration\bin\Debug\UserRegistration.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistration\obj\Debug\UserRegistration.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\002_UnitTestSample\UserRegistration\obj\Debug\UserRegistration.pdb
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistration\bin\Debug\UserRegistration.dll
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistration\bin\Debug\UserRegistration.pdb
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistration\obj\Debug\UserRegistration.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistration\obj\Debug\UserRegistration.dll
+D:\a-level\Unit_Testing\001 Introduction\002_UnitTestSample\UserRegistration\obj\Debug\UserRegistration.pdb

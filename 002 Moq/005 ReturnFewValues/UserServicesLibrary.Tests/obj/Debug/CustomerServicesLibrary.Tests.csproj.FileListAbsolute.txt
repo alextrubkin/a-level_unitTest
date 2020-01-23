@@ -1,0 +1,39 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\UserServicesLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\UserServicesLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\obj\Debug\CustomerServicesLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\obj\Debug\UserServicesLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\SimpleMockVerification\UserServicesLibrary.Tests\obj\Debug\UserServicesLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\UserServicesLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\UserServicesLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\obj\Debug\CustomerServicesLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\obj\Debug\UserServicesLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\ReturnFewParameters\UserServicesLibrary.Tests\obj\Debug\UserServicesLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\UserServicesLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\UserServicesLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\obj\Debug\CustomerServicesLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\obj\Debug\UserServicesLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\005 ReturnFewValues\UserServicesLibrary.Tests\obj\Debug\UserServicesLibrary.Tests.pdb

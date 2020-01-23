@@ -1,0 +1,10 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibrary\bin\Debug\CalcLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibrary\bin\Debug\CalcLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibrary\bin\Debug\CalcLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibrary\bin\Debug\CalcLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibrary\obj\Debug\CalcLibrary.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibrary\obj\Debug\CalcLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\CalcLibrary\obj\Debug\CalcLibrary.pdb

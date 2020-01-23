@@ -1,0 +1,27 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\TestContextSamples\TestContextSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\TestContextSamples\TestContextSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\a-level\Unit_Testing\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.dll
+D:\a-level\Unit_Testing\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.pdb
+D:\a-level\Unit_Testing\001 Introduction\005_TestContextSamples\TestContextSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\a-level\Unit_Testing\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.csproj.CopyComplete
+D:\a-level\Unit_Testing\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.dll
+D:\a-level\Unit_Testing\001 Introduction\005_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.pdb

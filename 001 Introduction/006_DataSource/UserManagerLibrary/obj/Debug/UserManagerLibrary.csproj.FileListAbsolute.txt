@@ -1,0 +1,13 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary\bin\Debug\UserManagerLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary\bin\Debug\UserManagerLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary\obj\Debug\UserManagerLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\UserManagerLibrary\UserManagerLibrary\obj\Debug\UserManagerLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary\bin\Debug\UserManagerLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary\bin\Debug\UserManagerLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary\obj\Debug\UserManagerLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\006_DataSource\UserManagerLibrary\obj\Debug\UserManagerLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary\bin\Debug\UserManagerLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary\bin\Debug\UserManagerLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary\obj\Debug\UserManagerLibrary.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary\obj\Debug\UserManagerLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\006_DataSource\UserManagerLibrary\obj\Debug\UserManagerLibrary.pdb

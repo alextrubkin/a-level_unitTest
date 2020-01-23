@@ -1,0 +1,36 @@
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\ShoppingCart\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\001 Introduction\003_ShoppingCart\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.pdb
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.dll
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.pdb
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.dll
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.pdb
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.csproj.CopyComplete
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.dll
+D:\a-level\Unit_Testing\001 Introduction\003_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.pdb

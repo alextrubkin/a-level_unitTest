@@ -1,0 +1,26 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\OutParametersSample\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\UserServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\UserServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\006 OutParametersSample\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.pdb

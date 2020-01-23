@@ -1,0 +1,4 @@
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\.vs\CalcLibrary\v16\lut\0\b\CalcLibraryTest\bin\Debug\CalcLibraryTest.dll
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\.vs\CalcLibrary\v16\lut\0\i\CalcLibraryTest\Debug\CalcLibraryTest.csprojAssemblyReference.cache
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\.vs\CalcLibrary\v16\lut\0\i\CalcLibraryTest\Debug\CalcLibraryTest.csproj.CopyComplete
+D:\a-level\Unit_Testing\001 Introduction\001_SimpleUnitTestAndNameConvension\.vs\CalcLibrary\v16\lut\0\i\CalcLibraryTest\Debug\CalcLibraryTest.dll

@@ -1,0 +1,26 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\StubbingProperties\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.Tests.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Castle.Core.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Moq.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Castle.Core.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Moq.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\011 StubbingProperties\CustomerServiceLibrary.Tests\obj\Debug\CustomerServiceLibrary.Tests.pdb

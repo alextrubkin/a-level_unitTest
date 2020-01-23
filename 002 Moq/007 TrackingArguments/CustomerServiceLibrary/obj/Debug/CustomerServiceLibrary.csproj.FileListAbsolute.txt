@@ -1,0 +1,10 @@
+D:\Lessons\Unit Testing Fundamentals\003 Moq\TrackingArguments\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\TrackingArguments\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Testing Fundamentals\003 Moq\TrackingArguments\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\003 Moq\TrackingArguments\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Testing Fundamentals\003 Moq\TrackingArguments\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\007 TrackingArguments\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\007 TrackingArguments\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\007 TrackingArguments\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\007 TrackingArguments\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+D:\Lessons\Unit Test Fundamentals Video\003 Moq\007 TrackingArguments\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb

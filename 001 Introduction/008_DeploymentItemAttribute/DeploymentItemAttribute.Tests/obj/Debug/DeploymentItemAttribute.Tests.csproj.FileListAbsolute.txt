@@ -1,0 +1,9 @@
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttribute.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttribute.Tests.pdb
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttribute.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\DeploymentItemAttribute.pdb
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttribute.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttribute.Tests.dll
+D:\Lessons\Unit Testing Fundamentals\DeploymentItemAttribute\DeploymentItemAttribute.Tests\obj\Debug\DeploymentItemAttribute.Tests.pdb
